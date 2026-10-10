@@ -1,4 +1,5 @@
 Smart Home Automation & Safety System 🏠⚡
+
 📌 Project Overview
 This project is an integrated system based on the Arduino Uno microcontroller, designed to provide smart solutions for home automation and ensure environmental safety. The system combines motion sensing for automatic control of lighting, and air quality monitoring with gas leak detection to proactively operate ventilation systems. It also features real-time system status and data display via an LCD screen. The entire circuit was designed and simulated using the Tinkercad platform.
 
