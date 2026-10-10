@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"L1",1," Light bulb"
+"P1",1,"12 , 5  Power Supply"
+"K2, K1",2," Relay DPDT"
+"PIR1",1," PIR Sensor"
+"M1",1," DC Motor"
+"SERVO1",1,"Positional Micro Servo"
+"U2",1," LCD 16 x 2"
+"R1",1,"220 Ω Resistor"
+"GAS1",1," Gas Sensor"
+"R2",1,"4.7 kΩ Resistor"
